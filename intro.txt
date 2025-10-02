@@ -12,3 +12,9 @@ Kỹ năng:
 - Python
 - Git
 - SQL
+Kế hoạch học tập:
+- Ôn lại kiến thức Git hàng ngày
+- Luyện tập các bài tập Git nâng cao
+- Thực hành GitHub project thật
+- Đọc tài liệu chính thức của Git
+- Học các workflow Git trong nhóm

@@ -1,3 +1,5 @@
 - Git giúp quản lý mã nguồn hiệu quả
 - Dễ dàng làm việc nhóm
 - Theo dõi lịch sử thay đổi
+- Học Git giúp hiểu quy trình phát triển phần mềm
+- Là nền tảng cho DevOps

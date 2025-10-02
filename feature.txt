@@ -1,0 +1,6 @@
+Tính năng mới:
+- Cho phép người dùng đăng nhập
+- Bảo mật với mật khẩu hash
+- Giao diện đơn giản
+- Hỗ trợ nhiều ngôn ngữ
+- Tích hợp API

@@ -1,4 +1,4 @@
-Hello, this is <Tên>
+Hello, this is Bình
 Tôi đang học CNTT tại Trường DNC
 Tôi yêu thích lập trình và công nghệ.
 Mục tiêu ngắn hạn của tôi là có bằng rốt nghiệp đúng thời hạn

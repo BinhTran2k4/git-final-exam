@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hello, this is Bình
+=======
+Xin chào, tôi là Bình
+>>>>>>> feature-update
 Tôi đang học CNTT tại Trường DNC
 Tôi yêu thích lập trình và công nghệ.
 Mục tiêu ngắn hạn của tôi là có bằng rốt nghiệp đúng thời hạn
